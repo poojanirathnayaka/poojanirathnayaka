@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying Artificial Intelligence at SLIIT School of Computing.
+- 🎓 Studying Artificial Intelligence at SLIIT Faculty of Computing.
 - 🤖 Interested in Artificial Intelligence and Machine Learning.
 - 🐍 Learning Python and Data Science.
 - 💻 Interested in Software Development.
